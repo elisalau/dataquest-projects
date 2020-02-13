@@ -11,5 +11,6 @@ This repo contains projects and guided projects from dataquest.io that I've work
 - Exploring_HN_Posts.ipynb
 - Data set from dataquest is a reduced version of this one: https://www.kaggle.com/hacker-news/hacker-news-posts
 
-3. Analyzing CIA FB Data Using SQL (Guided Project) (in progress)
-- No uploaded files yet
+3. Analyzing CIA Factbook Data Using SQL (Guided Project) (in progress)
+- Analyzing_CIA_Factbook_SQL.ipynb
+- factbook.db
